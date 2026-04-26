@@ -1,4 +1,4 @@
-# InterFatecs 2025 - Decisão do Agricultor
+# Decisão do Agricultor - InterFatecs 2025 (Problema C)
 <p>Este repositório contém a solução para o problema <strong>"Decisão do Agricultor"</strong>, um sistema de inteligência artificial simples desenvolvido para auxiliar na irrigação de plantações, otimizando o uso da água e garantindo a produtividade.</p>
 <hr>
 <h2>⚙️ Variáveis Ambientais (Sensores)</h2>
